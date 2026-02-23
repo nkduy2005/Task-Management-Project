@@ -20,7 +20,7 @@ Sramble (API documentation)
 ## Installation 
 - Download zip project or clone project 
 - composer install 
-- cp .env.expamle .env 
+- copy .env.example .env
 - php artisan key:generate 
 - php artisan migrate 
 - php artisan db:seed 
