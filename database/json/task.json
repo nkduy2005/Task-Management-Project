@@ -1,0 +1,30 @@
+[
+    {
+        "title":"Task 1",
+        "description":"This is a description for Task 1",
+        "due_date":"2026/02/28",
+        "slug":"task-1",
+        "user_id":1
+    },
+    {
+        "title":"Task 2",
+        "description":"This is a description for Task 2",
+        "due_date":"2026/01/28",
+        "slug":"task-2",
+        "user_id":1
+    },
+    {
+        "title":"Task 3",
+        "description":"This is a description for Task 3",
+        "due_date":"2026/01/29",
+        "slug":"task-3",
+        "user_id":2
+    },
+    {
+        "title":"Task 4",
+        "description":"This is a description for Task 4",
+        "due_date":"2026/01/29",
+        "slug":"task-4",
+        "user_id":2
+    }
+]
